@@ -1,6 +1,6 @@
-# Directory
+#directory
 temp
 
-# Files
+#Files
 *.log
 !debug.log
